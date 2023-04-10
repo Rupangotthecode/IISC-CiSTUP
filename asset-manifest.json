@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/IISC-CiSTUP/static/css/main.1082ebd8.css",
+    "main.js": "/IISC-CiSTUP/static/js/main.5102e9bd.js",
+    "static/media/greet-bg.mp4": "/IISC-CiSTUP/static/media/greet-bg.183f77ba07969766895c.mp4",
+    "static/media/secondpagebg.mp4": "/IISC-CiSTUP/static/media/secondpagebg.2060b9d9c53b3fcd8839.mp4",
+    "static/media/ques-bg.jpg": "/IISC-CiSTUP/static/media/ques-bg.28a5c0d16ec43acb19d0.jpg",
+    "static/media/bike.png": "/IISC-CiSTUP/static/media/bike.d1bb88dd15386211ed5b.png",
+    "static/media/cycle.png": "/IISC-CiSTUP/static/media/cycle.65a310dc88878c61a837.png",
+    "static/media/full_ico.png": "/IISC-CiSTUP/static/media/full_ico.b6444c2c3cf11444d292.png",
+    "static/media/biketaxi.png": "/IISC-CiSTUP/static/media/biketaxi.16900e76f26ae6da8434.png",
+    "static/media/taxi.png": "/IISC-CiSTUP/static/media/taxi.0f34e3e7d3f660bb32fd.png",
+    "static/media/emp_ico.png": "/IISC-CiSTUP/static/media/emp_ico.c920752422c11377083e.png",
+    "static/media/some_ico.png": "/IISC-CiSTUP/static/media/some_ico.4f89400e19d25d36ee95.png",
+    "static/media/auto.png": "/IISC-CiSTUP/static/media/auto.36852aebf775fdb7736a.png",
+    "static/media/bus-stop.png": "/IISC-CiSTUP/static/media/bus-stop.e6762c4decb5133896d2.png",
+    "index.html": "/IISC-CiSTUP/index.html",
+    "main.1082ebd8.css.map": "/IISC-CiSTUP/static/css/main.1082ebd8.css.map",
+    "main.5102e9bd.js.map": "/IISC-CiSTUP/static/js/main.5102e9bd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1082ebd8.css",
+    "static/js/main.5102e9bd.js"
+  ]
+}
