@@ -1,0 +1,48 @@
+.main-container1{
+    width: 100vw;
+    height:100%;
+}
+
+
+.main-container2{
+    position: relative;
+    width: 100vw;
+    height:100%;
+}
+
+.secpagebg{
+    width: 100vw;
+    height: 100%;
+    position: fixed;
+    object-fit: cover;
+    z-index: 0;
+}
+
+.data-container{
+    display: flex;
+    flex-direction: row;
+    width: 100vw;
+    height: 100%;
+    position: relative;
+    z-index: 1;
+    background-color: rgba(0, 0, 0, 0.54);
+    gap:2%;
+    align-items: center;
+}
+
+.mode-table{
+    color:white;
+    margin-left: 27vw;
+    margin-top: 4vw;
+    margin-bottom: 4vw;
+}
+
+.leftbar-container{
+    position: fixed;
+    left: 0%;
+    top:0%;
+    
+}
+
+
+

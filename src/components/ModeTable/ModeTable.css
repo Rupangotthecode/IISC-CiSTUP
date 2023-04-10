@@ -1,0 +1,115 @@
+.Base-box{
+    background-color: rgba(71, 71, 71, 0.586);
+    border : 2px solid rgb(88, 88, 88);
+    border-radius: 10px;
+    width:100%;
+    height: 100%;
+    padding :2%;
+    
+    display: flex;
+    flex-direction: column;
+}
+
+.heading-container{
+    color:rgb(255, 255, 255);
+    background-color: rgb(10, 101, 0);
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 10px;
+    height: 10vh;
+    margin-bottom: 1%;
+}
+
+.row-1{
+    background-color: rgba(0, 255, 0, 0.093);
+    height:20%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    padding:2%;
+    padding-top: 0;
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+}
+.row-2{
+    background-color: rgba(0, 255, 30, 0.24);
+    height:20%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    padding:2%;
+    padding-top: 0;
+}
+.row-3{
+    background-color: rgba(0, 127, 30, 0.386);
+    height:20%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    padding:2%;
+    padding-top: 0;
+}
+.row-4{
+    background-color: rgba(0, 255, 0, 0.277);
+    height:20%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    padding:2%;
+    padding-top: 0;
+}
+.row-5{
+    background-color: rgba(0, 255, 0, 0.201);
+    height:20%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    padding:2%;
+    padding-top: 0;
+}
+.row-6{
+    background-color: rgba(0, 70, 0, 0.259);
+    height:20%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    padding:2%;
+    padding-top: 0;
+}
+.row-7{
+    background-color: rgba(0, 255, 0, 0.193);
+    height:20%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    padding:2%;
+    padding-top: 0;
+    border-bottom-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+}
+
+.row-1-heading-container , .row-2-heading-container , .row-3-heading-container , .row-4-heading-container, .row-5-heading-container ,.row-6-heading-container ,.row-7-heading-container {
+    text-align: center;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 2%
+}
+
+.row-1radio{
+    height: 100%
+}
+
+.cell{
+    width: 150%;
+    border: 1px solid white;
+    padding: 2%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 3px;
+    flex-direction: column;
+}

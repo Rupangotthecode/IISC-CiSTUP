@@ -1,0 +1,45 @@
+.base-container{
+    background-image: linear-gradient(rgba(65, 65, 65, 0.756),rgba(24, 24, 24, 0.751));
+    color:rgb(223, 223, 223);
+    width:23vw;
+    display:flex;
+    flex-direction: column;
+    gap:20px;
+    position:sticky;
+    height: 100vh;
+    padding-left:6%;
+    padding-right: 10%;
+    justify-content: center;
+    z-index: 1px;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+
+.ques-1{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 8px;
+}
+
+.ques1-ans{
+    color:rgba(7, 214, 0, 0.892)
+}
+
+.ques-2{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 8px;
+}
+
+.ques2-ans{
+    color:rgba(7, 214, 0, 0.892)
+}
+
+.return{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 8px;
+}
